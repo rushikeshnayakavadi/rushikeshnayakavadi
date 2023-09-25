@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Nayakavadi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.flaticon.com/free-icon/programmer_3271001">
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E03AQGZobjRjT6UoA/profile-displayphoto-shrink_800_800/0/1686606651508?e=2147483647&v=beta&t=V60-gEF41W0wEB0JFt3UxDmHzGSCnPkNpOod99yx5yg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshnayakavadi&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshnayakavadi" /> </p>
 
