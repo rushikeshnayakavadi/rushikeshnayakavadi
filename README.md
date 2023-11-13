@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Building a web app that helps users showcase their projects effectively.<br>Open-source projects related to web development.<br><br>Advanced front-end development techniques, including modern JavaScript frameworks and libraries.
 
 
