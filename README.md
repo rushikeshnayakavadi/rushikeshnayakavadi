@@ -1,9 +1,3 @@
-# About Me:
-I specialize in building end-to-end ML/AI applications by utilizing MLOps/LLMOps practices. I'm always excited to tackle new challenges and drive innovation.
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-691494226/) 
-
 # 💻 Technical Skills & Tools:
 - **Programming & Frameworks:** Python (OOPs, Modular Coding), FastAPI  
 - **Code & Model Versioning:** Git, GitHub, DVC, MLflow  
